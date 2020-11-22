@@ -1,6 +1,6 @@
-# AdaBoost
+# AdaBoost Algorithm
 
-AdaBoost algorithm implementation and apply it to a synthetic dataset as well as a real dataset. The goal is to first implement the algorithm around a very simple decision stub classifier. In a later step this will be replaced by a least squares classifier. To test implementation, used apply script.
+AdaBoost algorithm implementation: apply it to a synthetic dataset as well as a real dataset. The goal is to first implement the algorithm around a very simple decision stub classifier. In a later step this will be replaced by a least squares classifier. To test implementation, use apply script.
 
 # simpleClassifier.py :
 
